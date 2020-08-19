@@ -1,3 +1,3 @@
 class say_hi:
-  def one(self):
+  def __init__(self):
     print('hi')
