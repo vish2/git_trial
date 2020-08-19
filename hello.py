@@ -1,5 +1,5 @@
-from file1 import say_hi
+from file2 import say_hi
 
 print('hello world')
 ob1 = say_hi()
-ob1.
+ob1.one()
